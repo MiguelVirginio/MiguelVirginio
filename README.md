@@ -275,7 +275,7 @@ jobs:
       - name: generate snake svg
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.migulvirginio }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -311,7 +311,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=your-username&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=miguelvirginio&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B1035,100:0A0E27&height=150&section=footer&animation=fadeIn" alt="footer" width="100%" />
 
