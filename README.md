@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=25&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=680&height=55&lines=Full-Stack+Developer;AI+%2F+ML+Engineer;Open-Source+Contributor;Cloud+%26+DevOps+Enthusiast;Turning+Ideas+Into+Interfaces" alt="typing tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=25&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=680&height=55&lines=Software Engineer;AI+%2F+ML+Engineer;Open-Source+Contributor;Cloud+%26+DevOps+Enthusiast;Turning+Ideas+Into+Interfaces" alt="typing tagline" />
 
 </div>
 
@@ -58,7 +58,7 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 - 🌱 Currently mastering **Rust**, **WebAssembly**, and distributed systems
 - 👯 Open to collaborating on **AI tooling** and open-source infrastructure
 - 💬 Ask me about **React**, **system design**, or **LLM integrations**
-- 📫 Reach me at [**contact.miguelvirginio**](contact.miguelvirginio@gmail.com)
+- 📫 Reach me at [**contact.miguelvirginio**](mailto:contact.miguelvirginio@gmail.com)
 - ⚡ Fun fact: I debug faster with a synthwave playlist running in the background
 
 </td>
@@ -96,7 +96,7 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 
 **Backend &amp; Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=graphql,aws,gcp,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=graphql,spring,aws,gcp,docker,kubernetes" />
 
 <br/><br/>
 
@@ -119,11 +119,12 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 <div align="center">
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-0A0E27?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF)
+![Intelij](https://img.shields.io/badge/IntelliJ-0A0E27?logo=intellij-idea&logoColor=00F0FF&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=B026FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF)
 ![Docker](https://img.shields.io/badge/Docker-0A0E27?style=for-the-badge&logo=docker&logoColor=B026FF)
 ![Insomnia](https://img.shields.io/badge/Insomnia-0A0E27?style=for-the-badge&logo=insomnia&logoColor=B026FF)
-![Figma](https://img.shields.io/badge/Figma-0A0E27?style=for-the-badge&logo=figma&logoColor=B026FF)
+![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=B026FF)
 ![Linux](https://img.shields.io/badge/Linux-0A0E27?style=for-the-badge&logo=linux&logoColor=00F0FF)
 ![Obsidian ](https://img.shields.io/badge/Obsidian-0A0E27?style=for-the-badge&logo=Obsidian&logoColor=B026FF)
 ![Netlify](https://img.shields.io/badge/Netlify-0A0E27?style=for-the-badge&logo=netlify&logoColor=00F0FF)
@@ -181,11 +182,11 @@ $ whoami
 > Full-Stack Developer building intelligent systems
 
 $ cat objectives.log
-[DONE]    Shipped 10+ production-grade web applications
-[DONE]    Contributed to 5+ open-source repositories
-[ACTIVE]  Deep-diving into distributed systems & Rust
-[ACTIVE]  Building an AI copilot for developer workflows
-[QUEUED]  Exploring on-chain / decentralized architectures
+    [COMPLETED]    Delivered 2+ production-ready web applications
+           [ACTIVE]            Deepening knowledge of embedded systems and Java
+           [ACTIVE]             Developing a sports and classic car catalog
+         [QUEUED]          Exploring on-chain / decentralized architectures
+   [QUEUED]          Contributed to 3+ open-source repositories
 
 $ status --check
 System   : ONLINE
@@ -197,20 +198,7 @@ Mood     : Shipping 🚀
 
 ## 📊 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=miguelvirginio&show_icons=true&count_private=true&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="GitHub stats" />
-
-</td>
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvirginio&layout=compact&langs_count=8&title_color=00F0FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="top languages" />
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -222,15 +210,7 @@ Mood     : Shipping 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:B026FF&height=3&section=header" width="100%" alt="divider" />
 
-## 🏆 Trophy Case
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=miguelvirginio&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:B026FF&height=3&section=header" width="100%" alt="divider" />
 
 ## 🐍 Contribution Snake
 
@@ -250,13 +230,11 @@ Mood     : Shipping 🚀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00A8FF)](https://linkedin.com/in/your-profile)
-[![X](https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00A8FF)](https://www.linkedin.com/in/miguel-virginio/)
 [![Instagram](https://img.shields.io/badge/Instagram-0A0E27?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/your-handle)
-[![Discord](https://img.shields.io/badge/Discord-0A0E27?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/your-id)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0E27?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://dev.to/miguelvirginio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=B026FF)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=netlify&logoColor=00F0FF)](https://miguelvirginio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=B026FF)](mailto:contact.miguelvirginio@gmail.com)
 
 </div>
 
