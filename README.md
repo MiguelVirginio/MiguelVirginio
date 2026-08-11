@@ -235,7 +235,7 @@ Mood     : Shipping 🚀
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0E27?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://dev.to/miguelvirginio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=netlify&logoColor=00F0FF)](https://miguelvirginio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=B026FF)](mailto:contact.miguelvirginio@gmail.com)
-
+> *Code is not just about syntax — it's about solving real problems with clarity.*
 </div>
 
 <br/>
