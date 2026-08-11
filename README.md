@@ -32,7 +32,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1100&color=00FF9F&background=00000000&center=true&vCenter=true&width=620&height=90&repeat=false&lines=%3E+booting+profile.exe...;%3E+loading+core+modules%3A+react%2C+node%2C+python;%3E+establishing+secure+connection...;%3E+access+granted.+welcome%2C+visitor." alt="boot sequence" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B1035,100:0A0E27&height=260&section=header&text=YOUR%20NAME&fontSize=46&fontColor=00F0FF&fontAlignY=37&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%7C%20AI%20Systems%20Engineer&descAlignY=58&descSize=17&descColor=B026FF" alt="header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:1B1035,100:0A0E27&height=260&section=header&text=MIGUEL%20VIRGÍNIO&fontSize=46&fontColor=00F0FF&fontAlignY=37&animation=fadeIn&desc=Software%20Engineer%20%&descAlignY=58&descSize=17&descColor=B026FF" alt="header banner" width="100%" />
 
 <a href="https://github.com/miguelvirginio">
 <img src="https://img.shields.io/github/followers/miguelvirginio?label=FOLLOW&style=for-the-badge&color=00F0FF&labelColor=0A0E27" alt="followers" />
@@ -58,7 +58,7 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 - 🌱 Currently mastering **Rust**, **WebAssembly**, and distributed systems
 - 👯 Open to collaborating on **AI tooling** and open-source infrastructure
 - 💬 Ask me about **React**, **system design**, or **LLM integrations**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at [**contact.miguelvirginio**](contact.miguelvirginio@gmail.com)
 - ⚡ Fun fact: I debug faster with a synthwave playlist running in the background
 
 </td>
@@ -301,7 +301,7 @@ jobs:
 [![X](https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://twitter.com/your-handle)
 [![Instagram](https://img.shields.io/badge/Instagram-0A0E27?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/your-handle)
 [![Discord](https://img.shields.io/badge/Discord-0A0E27?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/your-id)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0E27?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://dev.to/your-handle)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0E27?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://dev.to/miguelvirginio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://your-portfolio.dev)
 [![Email](https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=B026FF)](mailto:your.email@example.com)
 
