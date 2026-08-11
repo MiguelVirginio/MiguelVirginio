@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=25&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=680&height=55&lines=Software Engineer;AI+%2F+ML+Engineer;Open-Source+Contributor;Cloud+%26+DevOps+Enthusiast;Turning+Ideas+Into+Interfaces" alt="typing tagline" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=25&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=680&height=55&lines=Software Engineer;Open-Source+Contributor;Cloud+%26+DevOps+Enthusiast;Turning+Ideas+Into+Interfaces" alt="typing tagline" />
 
 </div>
 
