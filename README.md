@@ -148,8 +148,8 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 </td>
 <td width="50%">
 
-<a href="https://github.com/your-username/cyber-dashboard">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=cyber-dashboard&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="cyber-dashboard" />
+<a href="https://github.com/miguelvirginio/cyber-dashboard">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelvirginio&repo=cyber-dashboard&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="cyber-dashboard" />
 </a>
 
 </td>
@@ -157,14 +157,14 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 <tr>
 <td width="50%">
 
-<a href="https://github.com/your-username/quantum-api">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=quantum-api&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="quantum-api" />
+<a href="https://github.com/miguelvirginio/quantum-api">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelvirginio&repo=quantum-api&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="quantum-api" />
 </a>
 
 </td>
 <td width="50%">
 
-<a href="https://github.com/your-username/nova-portfolio">
+<a href="https://github.com/miguelvirginio/nova-portfolio">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=nova-portfolio&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="nova-portfolio" />
 </a>
 
@@ -201,12 +201,12 @@ Mood     : Shipping 🚀
 <tr>
 <td width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="GitHub stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=miguelvirginio&show_icons=true&count_private=true&title_color=00F0FF&icon_color=B026FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="GitHub stats" />
 
 </td>
 <td width="50%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&title_color=00F0FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="top languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvirginio&layout=compact&langs_count=8&title_color=00F0FF&text_color=C9D1D9&bg_color=0D1117&border_color=00F0FF&border_radius=10" alt="top languages" />
 
 </td>
 </tr>
@@ -214,9 +214,9 @@ Mood     : Shipping 🚀
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=your-username&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=miguelvirginio&hide_border=true&background=0D1117&ring=00F0FF&fire=B026FF&currStreakLabel=00F0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0D1117&color=00F0FF&line=B026FF&point=C9D1D9&area=true&area_color=00F0FF&title_color=00F0FF&hide_border=true" alt="activity graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelvirginio&bg_color=0D1117&color=00F0FF&line=B026FF&point=C9D1D9&area=true&area_color=00F0FF&title_color=00F0FF&hide_border=true" alt="activity graph" width="95%" />
 
 </div>
 
@@ -226,7 +226,7 @@ Mood     : Shipping 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=miguelvirginio&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -237,59 +237,12 @@ Mood     : Shipping 🚀
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelvirginio/miguelvirginio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelvirginio/miguelvirginio/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/miguelvirginio/miguelvirginio/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
-
-<details>
-<summary>⚙️ Enable the snake animation (one-time setup)</summary>
-
-<br/>
-
-1. In your `your-username/your-username` repo, create a file at `.github/workflows/snake.yml` with the contents below (also saved alongside this README as **snake.yml**).
-2. Push it to `main` — the action runs once immediately, then daily on a schedule.
-3. It generates the SVG and pushes it to an `output` branch, which is exactly what the `<picture>` block above points to. No further action needed.
-
-```yaml
-name: generate snake animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs once a day
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: generate snake svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.migulvirginio }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:B026FF&height=3&section=header" width="100%" alt="divider" />
 
