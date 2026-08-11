@@ -84,33 +84,33 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust" />
+<img src="https://skillicons.dev/icons?i=js,java,cpp" />
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=tailwind,html,css" />
 
 <br/><br/>
 
 **Backend &amp; Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,aws,gcp,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=graphql,aws,gcp,docker,kubernetes" />
 
 <br/><br/>
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" />
 
 <br/><br/>
 
-**AI &amp; Machine Learning**
-<br/>
+<!-- **AI &amp; Machine Learning** -->
+<!-- <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:B026FF&height=3&section=header" width="100%" alt="divider" />
 
@@ -122,12 +122,12 @@ I build systems the way I like my interfaces — clean, fast, and a little bit a
 ![Git](https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=B026FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF)
 ![Docker](https://img.shields.io/badge/Docker-0A0E27?style=for-the-badge&logo=docker&logoColor=B026FF)
-![Postman](https://img.shields.io/badge/Postman-0A0E27?style=for-the-badge&logo=postman&logoColor=00F0FF)
+![Insomnia](https://img.shields.io/badge/Insomnia-0A0E27?style=for-the-badge&logo=insomnia&logoColor=B026FF)
 ![Figma](https://img.shields.io/badge/Figma-0A0E27?style=for-the-badge&logo=figma&logoColor=B026FF)
 ![Linux](https://img.shields.io/badge/Linux-0A0E27?style=for-the-badge&logo=linux&logoColor=00F0FF)
-![Notion](https://img.shields.io/badge/Notion-0A0E27?style=for-the-badge&logo=notion&logoColor=B026FF)
-![Vercel](https://img.shields.io/badge/Vercel-0A0E27?style=for-the-badge&logo=vercel&logoColor=00F0FF)
-![Slack](https://img.shields.io/badge/Slack-0A0E27?style=for-the-badge&logo=slack&logoColor=B026FF)
+![Obsidian ](https://img.shields.io/badge/Obsidian-0A0E27?style=for-the-badge&logo=Obsidian&logoColor=B026FF)
+![Netlify](https://img.shields.io/badge/Netlify-0A0E27?style=for-the-badge&logo=netlify&logoColor=00F0FF)
+
 
 </div>
 
